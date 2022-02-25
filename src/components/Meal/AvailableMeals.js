@@ -5,8 +5,8 @@ import MealItem from "./MealItem";
 const DummyMeals = [
   {
     id: "m1",
-    name: "chicken curry",
-    desc: "chicken with tomato gravy",
+    name: "chicken over rice",
+    desc: "grilled chicken with spiced rice",
     price: 20.99,
   },
   {
@@ -17,14 +17,14 @@ const DummyMeals = [
   },
   {
     id: "m3",
-    name: "veg biryani",
-    desc: "spices rice with veggies",
+    name: "Falafal",
+    desc: " deep-fried chickpea ball/fritters with rice and veggies",
     price: 20.99,
   },
   {
     id: "m4",
-    name: "lamb curry",
-    desc: "lamb with tomato gravy",
+    name: "Veggie Rolls ",
+    desc: "pick veggies of your choice with multigrain bread",
     price: 20.99,
   },
 ];
